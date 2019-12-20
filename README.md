@@ -36,4 +36,4 @@ LETS NOTE is a note taking web app for students, business and catual users,a gre
 
 -The the plan for this project is to make it easy for users to share and edit notes with ease And with a user friendly interface for taking notes , The ability to share make it easy for students to share ideas and help each other.
 
-<a href="https://bennyxbojan.github.io/notes/">Link</a>
+<a href="https://api.glitch.com/git/oasis-honeycrisp">Link</a>
